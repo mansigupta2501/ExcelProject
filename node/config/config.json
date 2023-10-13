@@ -1,0 +1,51 @@
+{
+    
+    "BusinessReport.csv": {
+        "30 Days sales": "Units Ordered"
+    },
+    "FbaInventory.xlsx": {
+        "ASIN": "asin",
+        "New but unfulfillable qty": "afn-unsellable-quantity",
+        "Amazon FCs": "",
+        "Total Units": "",
+        "Product Name": "product-name",
+        "Brand": "Brand",
+        "Snaphire POC": "Brand Manager",
+        "Negative qty": "QTY",
+        "QWTT (GOOD)": "Sellable",
+        "Amazon Sku": "sku",
+        "Damage qty": "QTY",
+        "In transit new qty": "QTY",
+        "30 Days sales": "Units Ordered",
+        "CP": "CP",
+        "payout": "payout",
+        "new recalled qty in transit": "QTY",
+        "damage Recalled qty in transit": "QTY",
+        "Any dispute qty where portal has not acknowledged the stock (claime)": "QTY",
+        "Mop By Brand": "MOP"
+    },
+    "PurchaseMaster.xlsx": {
+        "Snaphire POC": "Brand Manager",
+        "CP": "CP",
+        "Mop By Brand": "MOP",
+        "Brand": "Brand"
+    },
+    "anyDespute.xlsx": {
+        "Any dispute qty where portal has not acknowledged the stock (claime)": "anyDesputedQTY"
+    },
+    "DamageQTY.xlsx": {
+        "Damage qty": "damageQTY"
+    },
+    "damageRecall.xlsx": {
+        "damage Recalled qty in transit": "damageRecall"
+    },
+    "inTransit.xlsx": {
+        "In transit new qty": "inTransitNewQTY"
+    },
+    "negQTY.xlsx": {
+        "Negative qty": "negativeQTY"
+    },
+    "newRecallQ.xlsx": {
+        "new recalled qty in transit": "newRecallQTY"
+    }
+}

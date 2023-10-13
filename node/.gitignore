@@ -1,0 +1,8 @@
+public/pnlSourceFiles/
+public/pnlSourceFiles/PaymentSummaryByBrandManager
+public/pnlSourceFiles/UpdatedPayReport
+public/masterSourceFiles/
+public/targetFile/
+node_modules
+exceptions.log
+logs.log
